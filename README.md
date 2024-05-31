@@ -1,2 +1,3 @@
-# grupo1avd
-Repositório com os trabalhos da disciplina de Análise e Visualização de Dados 
+# Grupo 1 Análise e Visualização de Dados
+
+Repositório com os trabalhos finais da disciplina de Análise e Visualização de Dados 
