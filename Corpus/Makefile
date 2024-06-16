@@ -46,10 +46,15 @@ verbosCORPUSR.csv: corpusR-anotado.txt contaverbosCORPUSR.py
 verbosNOS.csv: corpus-nos-anotado.txt contaverbosNOS.py
 	python contaverbosNOS.py corpus-nos-anotado.txt
 
-# Datas
+# Títulos
 
 datasCORPUSR.txt: corpusR-anotado.txt datasCORPUSR.py
 	python datasCORPUSR.py corpusR-anotado.txt
 
 datasNOS.txt: corpus-nos-anotado.txt datasNOS.py
 	python datasNOS.py corpus-nos-anotado.txt
+
+# Datas
+
+datasNOS.csv: corpus-nos-anotado.txt datasNOSF.py
+	python datasNOSF.py corpus-nos-anotado.txt
