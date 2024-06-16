@@ -93,7 +93,7 @@ Pasta destinada ao tratamento e limpeza dos dados textuais.
 
 #### Arquivos principais:
 - **README.md**: Este arquivo README, que fornece uma visão geral do projeto e instruções sobre como utilizá-lo.
-
+- **relatorio.ipynb**: Cópia do relatório da disciplina.
 ## Autores
 
 - **Francisca Pimenta** - PG54508
