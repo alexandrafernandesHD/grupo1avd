@@ -98,10 +98,3 @@ Pasta destinada ao tratamento e limpeza dos dados textuais.
 
 - **Francisca Pimenta** - PG54508
 - **S. Alexandra Fernandes** - PG52766
-
----
-
-Este README fornece uma visão geral clara e organizada do projeto, facilitando a compreensão e utilização do repositório por terceiros.
-```
-
-Esta versão do README agora inclui uma descrição detalhada das subpastas dentro da pasta `Tratamento_Corpus/`, o que oferece uma visão mais abrangente sobre o tratamento e limpeza dos dados textuais no projeto.
